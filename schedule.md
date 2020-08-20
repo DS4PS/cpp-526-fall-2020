@@ -80,19 +80,16 @@ Play the video below to learn a bit more about your instructor for the course, J
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xQA9OSjGQok?rel=0&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rG8Pp1XUW4?rel=0&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
-Visit the [video](https://youtu.be/xQA9OSjGQok) to navigate using timestamps in the description or bookmarks in the progress bar.
+Visit the [video](https://youtu.be/5rG8Pp1XUW4) to navigate using timestamps in the description or bookmarks in the progress bar.
 
-* (**00:00**) Introduction & Welcome
-* (**00:47**) An Overview of What I Do Professionally
-* (**02:44**) My Background in Public Administration
-* (**03:22**) Where I'm From, Where I've Been, & My Teaching Career
-* (**03:54**) How I Became Involved in Co-Creating & Teaching the Course
-* (**05:18**) The Personal & Professional Importance of the Course
-* (**05:48**) Why I'm Excited to See What You Can Do!
+* (**00:00**) Introduction
+* (**00:57**) My Background
+* (**02:03**) Teaching R & Connection to Course
+* (**04:10**) What I'm Excited About!
 
 <br>
 
