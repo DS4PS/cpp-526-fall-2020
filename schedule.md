@@ -16,6 +16,18 @@ lab-due-dates:
  
 discussion-dates:
   topic-00: 'FRI Aug 21st'
+  topic-01: 'FRI Aug 28th'
+  topic-02: 'FRI Sept 4th'
+  topic-03: 'FRI Sept 11th'
+  topic-04: 'FRI Sept 18th'
+  topic-05: 'FRI Sept 25th'
+  topic-06: 'FRI Oct 2nd'
+  
+final-project:
+  due-date: 'FRI Oct 9th'
+
+code-through:
+  due-date: 'FRI Oct 9th'
   
 ---
  
@@ -36,6 +48,20 @@ Unit Metadata is comprised of:
 Submit Buttons - 
   <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Submit Lab</a>
   <a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+-->
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WELCOME
+##########
+#########################################
+#########################################
 -->
 
 ** Welcome
@@ -406,6 +432,23 @@ We will be using a discussion board called **YellowDig** for this course. Introd
 <br>
 <br>
 
+
+
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 01
+##########
+#########################################
+#########################################
+-->
+
 ** Week 1 - Functions and Vectors 
 
 *** { @unit = "", @title = "Unit Overview", @reading, @foldout  }
@@ -683,7 +726,7 @@ The following checklist will help you stay organized in your first week.
 
 <br>
 
-*** { @unit = "Due May 22nd", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-01}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -721,7 +764,7 @@ You can earn up to 20 points a week, and points reset on Fridays. You need to ea
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dat.lab-01}}", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dates.lab-01}}", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 
@@ -741,6 +784,26 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <br>
 <br>
+
+
+
+
+
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 02
+##########
+#########################################
+#########################################
+-->
+
 
 ** Week 2 - Operators and Descriptives
 
@@ -865,7 +928,7 @@ The following checklist will help you stay organized in your second week.
 
 <br>
 
-*** { @unit = "FRI May 29", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-02}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -902,7 +965,7 @@ Take note, this assignment asks you to explore a new community where the technic
 <br>
 <br>
 
-*** { @unit = "MON Jun 1st", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "{{page.lab-due-dates.lab-02}}", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -935,6 +998,23 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <br>
 <br>
+
+
+
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 03
+##########
+#########################################
+#########################################
+-->
 
 ** Week 3 - Visualization
 
@@ -1048,7 +1128,7 @@ The following checklist will help you stay organized in your third week.
 
 <br>
 
-*** { @unit = "FRI Jun 5th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-03}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1068,7 +1148,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 <br>
 <br>
 
-*** { @unit = "MON June 8th", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dates.lab-03}}", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1096,6 +1176,21 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <br>
 <br>
+
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 04
+##########
+#########################################
+#########################################
+-->
 
 ** Week 4 - Dynamic Visualization 
 
@@ -1226,7 +1321,7 @@ The following checklist will help you stay organized in your fourth week.
 
 <br>
 
-*** { @unit = "FRI June 12th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-04}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1248,7 +1343,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 <br>
 <br>
 
-*** { @unit = "MON June 15th", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dates.lab-04}}", @title = "Lab 04", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1269,6 +1364,21 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <br>
 <br>
+
+
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 05
+##########
+#########################################
+#########################################
+-->
 
 ** Week 5 - Data Wrangling 
 
@@ -1386,7 +1496,7 @@ The following checklist will help you stay organized in your fifth week.
 
 <br>
 
-*** { @unit = "FRI June 19th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-05}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1420,7 +1530,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 <br>
 <br>
 
-*** { @unit = "MON June 22nd", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dates.lab-05}}", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1443,6 +1553,19 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <br>
 <br>
+
+
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         WEEK 06
+##########
+#########################################
+#########################################
+-->
 
 ** Week 6 - Data IO and Joins
 
@@ -1516,7 +1639,7 @@ The following checklist will help you stay organized in your sixth week.
 
 <br>
 
-*** { @unit = "FRI June 19th", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "{{page.discussion-dates.topic-06}}", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -1574,7 +1697,7 @@ Do you think open source frameworks would help open the black box and make gover
 <br>
 <br>
 
-*** { @unit = "MON June 22nd", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dates.lab-06}}", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1596,8 +1719,20 @@ Click to download the lab template. Modify and submit using the instructions.
 <br>
 <br>
 
-** FINAL PROJECTS
 
+
+
+<!--- 
+#########################################
+#########################################
+##########
+##########         FINAL PROJECTS
+##########
+#########################################
+#########################################
+-->
+
+** FINAL PROJECTS
 
 *** { @unit = "", @title = "Reflection", @reading, @foldout }
 
@@ -1621,7 +1756,7 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-*** { @unit = "FRI June 26th", @title = "Code-Through Project", @assignment, @foldout  }
+*** { @unit = "{{page.code-through.due-date}}", @title = "Code-Through Project", @assignment, @foldout  }
 
 <br>
 
@@ -1650,7 +1785,7 @@ Download the recommended template for your code-through with the below link.
 <br>
 <br>
 
-*** { @unit = "FRI June 26th", @title = "Final Dashboard Project", @assignment, @foldout  }
+*** { @unit = "{{page.final-project.due-date}}", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 
@@ -1675,6 +1810,9 @@ We recommended creating new tabs independently, then incorporating them into the
 
 <br>
 <br>
+
+
+
 
 <style> 
 body {
