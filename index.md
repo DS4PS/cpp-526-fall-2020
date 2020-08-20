@@ -14,13 +14,13 @@ info:
  course_number: CPP 526 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/54986'
- course_start_end_dates: May 18th to June 26th, 2020
+ course_start_end_dates: Aug 20th to Oct 4th, 2020
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/944016877'
  review_sessions_when: TBA 
  review_sessions_where: Zoom
- discussion_board_url: 'https://ds4ps.org/cpp-526-sum-2020/help/'
+ discussion_board_url: 'https://ds4ps.org/cpp-526-fall-2020/help/'
 
 instructor:
 -  name: Jamison Crawford
