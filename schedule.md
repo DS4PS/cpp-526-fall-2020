@@ -3,8 +3,20 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/54986/assignments'
-  yellowdig_url: 'https://canvas.asu.edu/courses/54986/assignments/1306428'
+  assignment_url: 'https://canvas.asu.edu/courses/67636/assignments'
+  yellowdig_url: 'https://canvas.asu.edu/courses/67636/assignments/1615950'
+  
+lab-due-dates:
+  lab-01: 'WED Aug 26th'
+  lab-02: 'WED Sep 2nd'
+  lab-03: 'WED Sep 9th'
+  lab-04: 'WED Sep 16th'
+  lab-05: 'WED Sep 23rd'
+  lab-06: 'WED Sep 30th'
+ 
+discussion-dates:
+  topic-00: 'FRI Aug 21st'
+  
 ---
  
 <!--- 
@@ -377,7 +389,7 @@ The following checklist will help you organize and prepare for success in this c
 
 <br>
 
-*** { @unit = "Due May 20", @title = "Introduce Yourself", @assignment, @foldout }
+*** { @unit = "{{page.discussion-dates.topic-00}}", @title = "Introduce Yourself", @assignment, @foldout }
 
 <br>
 
@@ -709,7 +721,7 @@ You can earn up to 20 points a week, and points reset on Fridays. You need to ea
 <br>
 <br>
 
-*** { @unit = "MON May 25th", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "{{page.lab-due-dat.lab-01}}", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 
