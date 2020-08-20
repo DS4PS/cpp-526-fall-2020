@@ -427,7 +427,7 @@ We will be using a discussion board called **YellowDig** for this course. Introd
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/54986/assignments/1306428">Post to YellowDig</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to YellowDig</a>
 
 <br>
 <br>
